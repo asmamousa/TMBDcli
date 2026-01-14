@@ -10,4 +10,4 @@ tmdb-app --type "top"
 tmdb-app --type "upcoming"
 ```
 ### TMBD api
-Create an account on [TMDB](https://developer.themoviedb.org/reference/movie-now-playing-list) to get token and assign it to `token` in token.py file after creating it.
+Create an account on [TMDB](https://developer.themoviedb.org/reference/movie-now-playing-list) to get token and assign it to `token` in token.py file.
